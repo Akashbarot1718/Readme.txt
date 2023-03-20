@@ -2,3 +2,5 @@ welcome
 khajur
 maggie
 chocolate
+chickpeas
+pizza
